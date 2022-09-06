@@ -6,7 +6,17 @@
     <description>Recent content in Pages on Henry Yeh&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Aug 2022 17:51:09 -0700</lastBuildDate><atom:link href="https://henryyeh.cc/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 03:48:01 -0700</lastBuildDate><atom:link href="https://henryyeh.cc/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://henryyeh.cc/page/projects/</link>
+      <pubDate>Tue, 06 Sep 2022 03:48:01 -0700</pubDate>
+      
+      <guid>https://henryyeh.cc/page/projects/</guid>
+      <description>FSE Emergency Social Network Emergency Social Network is a chat room based web application for citizen to exchange information during covid-19. This project contains several high-level requirements: Join Community, Login-Logout, Chat Publicly/Privately, Post Announcement, Share Status, Search Information, Administer User Profile, Health Report Generator, Covid-19 Map/Article Inventory/Supplies. And the following tech stacks are used:
+web UI frontend: PUG(HTML)/CSS with bootstrap, jquery backend: node.js database: mongoDB unit-test framework: jest And this application is deployed on heroku with CircleCI</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://henryyeh.cc/page/about/</link>
